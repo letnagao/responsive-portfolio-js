@@ -1,1 +1,1 @@
-# resposive-portfolio-js
+# responsive-portfolio-js
